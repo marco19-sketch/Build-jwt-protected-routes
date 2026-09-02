@@ -333,5 +333,30 @@
     "email": "deny_1788336013903_rxxhmrs09pq@test.dev",
     "passwordHash": "$2b$10$trxFgNc.c3Ee/N/ENB6d6uIrelhmQTKgJG/7BNb3XLS9If2TyrP.O",
     "role": "user"
+  },
+  {
+    "email": "marco@tim.com",
+    "passwordHash": "$2b$10$eUmJCuaIHQ/Z0390DcnLCeI7qrHeUNR6BPiNDm7tdMxqYgozMDLZ6",
+    "role": "user"
+  },
+  {
+    "email": "marco@tim.com",
+    "passwordHash": "$2b$10$qqhQmx0mHwLJ/B.n434H3ON1QsGEtT5dYkWPLHHBEVRwxMUSCyZ5y",
+    "role": "user"
+  },
+  {
+    "email": "ciccio@tim.com",
+    "passwordHash": "$2b$10$xHDyjx7SAXwSYdg88pdOTez4f.Y5RF6Lt6Pt/IlwMaJ6gsdTSkbkK",
+    "role": "admin"
+  },
+  {
+    "email": "toto@tim.com",
+    "passwordHash": "$2b$10$PPd5OBRkfhUian/XQNsQ..Ef8VvyKaKSCm51m7VuU/w8bixoSKlLa",
+    "role": "user"
+  },
+  {
+    "email": "lella@tim.com",
+    "passwordHash": "$2b$10$vDYdAKsiAO9Y71T1vLOAaOc.IQhIYSIFyp91Fw0dlvRLTzJwX1nsm",
+    "role": "user"
   }
 ]
